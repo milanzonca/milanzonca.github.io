@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_publications/2009-10-01-paper-title-number-1.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_publications/2009-10-01-paper-title-number-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_publications/2009-10-01-paper-title-number-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/about.md"
+                "file": "_publications/2009-10-01-paper-title-number-1.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "8b3d387dea8e4f7d",
   "lastOpenFiles": [
+    "_pages/about.md",
     "README.md"
   ]
 }
