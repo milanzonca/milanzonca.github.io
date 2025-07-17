@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zonca-scaled.jpg"
+  avatar           : "zonca-scaled.png"
   name             : "Milan Žonca"
   pronouns         : # example: "she/her"  
   bio              : "Historian of Medieval Judaism"
