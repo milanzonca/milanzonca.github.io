@@ -36,11 +36,11 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5848-3426"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
-  scopus           : # URL
+  researcherID     : "http://www.researcherid.com/rid/J-9906-2017"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57201373922"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
