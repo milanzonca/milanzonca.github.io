@@ -1,0 +1,92 @@
+baseURL: # https://milanzonca.org
+title: Milan Žonca
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main: 
+        - name: Publications
+          url: publications/
+          weight: 1
+        - name: CV
+          url: cv-mz.pdf
+
+params:
+    description: "This is Milan Žonca's personal website."
+    author: Milan Žonca
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["publications","notes"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Milan Žonca
+          subtitle: "I am a historian of medieval Judaism. I work as an Assistant Professor at the [Department of Middle Eastern Studies](https://kbv.ff.cuni.cz), [Faculty of Arts, Charles University](https://ff.cuni.cz) in Prague."
+          imageUrl: "mich311.png"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: Publications
+              url: publications/
+            - name: CV
+              url: cv-mz.pdf
+            - name: Tags
+              url: tags/
+            - name: Archive
+              url: archive/
+
+    socialIcons:
+        - name: Email
+          url: mailto:milan.zonca@ff.cuni.cz
+        - name: Location
+          url: location/
+        - name: Twitter
+          url: https://x.com/MilanZonca
+        - name: ORCID
+          url: https://orcid.org/0000-0002-5848-3426
+
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Milan Žonca"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
