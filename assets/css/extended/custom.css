@@ -1,0 +1,37 @@
+.fulltext-article .main {
+  font-family: 'Cardo', serif;
+  font-size: 1.2rem;
+  line-height: 1.9;
+}
+
+.fulltext-article .main figcaption {
+  font-family: 'Cardo', serif;
+  font-weight: 400;
+}
+
+:lang(he) {
+  font-family: "SBL Hebrew", serif;
+  direction: rtl;
+  text-align: right;
+}
+
+.page-ref {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  color: var(--color-text-secondary);
+  /* border: 0.5px solid var(--color-border-secondary);
+  border-radius: 3px; */
+  padding: 0 0.3rem;
+  margin: 0 0.3rem;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+@font-face {
+  font-family: 'SBL Hebrew';
+  src: url('/fonts/SBLHebrew.woff2') format('woff2'),
+       url('/fonts/SBLHebrew.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+/*  'Noto Sans Hebrew', sans-serif;

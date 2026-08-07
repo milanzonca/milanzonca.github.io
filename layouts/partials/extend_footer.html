@@ -1,0 +1,10 @@
+{{ if .Params.offset_footnotes }}
+<script>
+  <!-- Change +1 and '2' below to offset footnotes by a different amount -->
+  document.querySelectorAll('sup[id^="fnref"] a').forEach(a => {
+    a.textContent = parseInt(a.textContent) + 1;
+  });
+  const ol = document.querySelector('.footnotes ol');
+  if (ol) ol.setAttribute('start', '2');
+</script>
+{{ end }}

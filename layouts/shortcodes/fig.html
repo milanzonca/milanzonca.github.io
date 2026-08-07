@@ -1,0 +1,6 @@
+<figure id="{{ .Get "id" }}">
+  <img src="{{ .Get "src" }}" 
+       alt="{{ .Get "caption" | plainify }}"
+       style="width: {{ .Get "width" | default "100%" }}">
+  <figcaption>{{ .Get "caption" | safeHTML }}</figcaption>
+</figure>
