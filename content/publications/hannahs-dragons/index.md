@@ -3,6 +3,12 @@ title: "Hannah’s Dragons: Gender and Conversion in a Fourteenth-Century Jewish
 date: 2026-02-02
 tags: 
  - Menahem Zion
+ - Conversion
+ - Isaac of Corbeil
+ - Jewish education
+ - Cologne
+ - Hannah bat Menahem Zion
+ - Female piety
 description: "This chapter examines a unique fourteenth-century Hebrew manuscript copied by a woman, Hannah bat Menaḥem Ẓion of Cologne." 
 summary: "This chapter examines a unique fourteenth-century Hebrew manuscript copied by a woman, Hannah bat Menaḥem Ẓion of Cologne. I claim that the manuscript, and in particular its illustrations, reflect Hannah’s attempt to reclaim her female Jewish identity after a forced conversion."
 
