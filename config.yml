@@ -1,7 +1,7 @@
-baseURL: # https://milanzonca.org
+baseURL: "https://milanzonca.org"
 title: Milan Žonca
 theme: PaperMod
-
+languageCode: en
 enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
@@ -19,8 +19,9 @@ menu:
           url: cv-mz.pdf
 
 params:
-    description: "This is Milan Žonca's personal website."
-    author: Milan Žonca
+    description: "Milan Žonca is a historian of medieval Judaism at the Department of Middle Eastern Studies, Faculty of Arts, Charles University in Prague. Research on medieval Jewish history, Hebrew manuscripts, and Jewish–Christian relations."
+    keywords: ["Milan Žonca", "medieval Judaism", "Jewish history", "Hebrew manuscripts", "Jewish-Christian relations", "Charles University", "medieval history"]
+    author: "Milan Žonca"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
