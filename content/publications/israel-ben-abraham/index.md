@@ -15,6 +15,7 @@ summary: "This article presents an edition of a hitherto unidentified set of com
 
 - [Post-print PDF](israel-ben-abraham.pdf)
 - [Alternative version of the edition](israel-ben-abraham-edition.pdf), with the Latin text of Aquinas’s commentary in a parallel column (PDF).
+- [Publisher’s version](https://brill.com/view/journals/zuto/19/1/article-p103_9.xml)
 
 ---
 
