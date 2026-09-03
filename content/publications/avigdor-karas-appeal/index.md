@@ -14,7 +14,7 @@ summary: "This paper presents a commented edition and English translation of a b
 
 ##### Access
 
-- [Post-print PDF](avigdor_karas_appeal.pdf)
+- [Post-print PDF](avigdor-karas-appeal.pdf)
 - [Publisher’s version](https://www.ceeol.com/search/article-detail?id=815589)
 ---
 
