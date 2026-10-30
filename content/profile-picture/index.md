@@ -14,7 +14,7 @@ What struck me as I was taking the photographs was several elaborate and rather 
 
 The drawing appears accompanied by three others figures, which look as if they were scribbled by a young child, and an inscription in German: _Daz sint dy Juden kopff_ – "These are Jewish heads".
 
-{{< figure src="139v-detail.JPG" alt="Example" >}}
+{{< figure src="139v-detail.jpg" alt="Drawings of four human figures" >}}
 
 The manuscript contains further drawings and glosses in Hebrew, Yiddish, and German, which I hope to describe here in greater detail in the near future.
 
